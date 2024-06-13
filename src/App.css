@@ -1,0 +1,11 @@
+#root {
+ 
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.backgroud{
+  background-image: url('../src/assets/72caebcf209a6b71604f32b421ff377f.png');
+  background-repeat: no-repeat;
+}
